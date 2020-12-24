@@ -6,18 +6,19 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@Magenta_Oreo-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/Magenta_Oreo)](https://twitter.com/Magenta_Oreo)   [![Linkedin Badge](https://img.shields.io/badge/-Maria_Claudia_Pérez_Escalante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maría-claudia-pérez-escalante-501a62144)](https://www.linkedin.com/in/maría-claudia-pérez-escalante-501a62144) [![Website Badge](https://img.shields.io/badge/-macu.ptah.tech-blueviolet?style=flat-square&logo=Website&logoColor=white&link=https://macu.ptah.tech/)](https://macu.ptah.tech/) 
 [![Instagram Badge](https://img.shields.io/badge/-macu.21-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/macu.21/)](https://www.instagram.com/macu.21/)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### <i>About</i>
 
-<!--
-**macu-dev/macu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **Learning :** Full-Stack Development :zap:
+-  **Languages :** Html, C, JavaScript💻 and Css
+-  **Hobbies :** Read📕, Sing:microphone: and Listen to the music :headphones:
+-  **Favorite phrase:“When you do something noble and beautiful and nobody noticed, do not be sad. For the sun every morning is a beautiful spectacle and yet most       of the audience still sleeps.”- John Lennon
 
-Here are some ideas to get you started:
+<p align="center">
+  <img alt="Macu-dev Github Stats" src="https://github-readme-stats.vercel.app/api?username=macu-dev&show_icons=true&theme=cobalt">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img width="200" height="200" src="https://i.pinimg.com/originals/21/f0/92/21f0929a92ebe840eb932af199fb3260.gif">
+</p>
+

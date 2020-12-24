@@ -2,6 +2,10 @@
   <img width="300" height="300" src="https://media1.tenor.com/images/a5dda5f48b69bf95471ffd02f0d7edba/tenor.gif">
 </p>
 
+## Hi, My name is Maria Claudia but my friends call me Macu
+
+[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/Magenta_Oreo)](https://twitter.com/Magenta_Oreo)
+
 <!--
 **macu-dev/macu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

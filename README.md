@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fes%2Fver%2Fcat-waving-hi-pusheen-sticker-gif-18040046&psig=AOvVaw3N_H2CpsLUxb6UOtjeiR5f&ust=1608867268746000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCw3uLX5e0CFQAAAAAdAAAAABAl">
+  <img width="300" height="200" src="https://media1.tenor.com/images/a5dda5f48b69bf95471ffd02f0d7edba/tenor.gif">
 </p>
 
 <!--

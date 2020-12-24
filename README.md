@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img width="300" height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fes%2Fver%2Fcat-waving-hi-pusheen-sticker-gif-18040046&psig=AOvVaw3N_H2CpsLUxb6UOtjeiR5f&ust=1608867268746000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCw3uLX5e0CFQAAAAAdAAAAABAl">
+</p>
 
 <!--
 **macu-dev/macu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -10,7 +10,7 @@
 ### <i>About</i>
 
 -  **Learning :** Full-Stack Development :zap:
--  **Languages :** (https://img.shields.io/badge/-CSS-1ca0f1?), C, JavaScript💻 and Css
+-  **Languages :** Html, C, JavaScript💻 and Css
 -  **Hobbies :** Read📕, Sing:microphone: and Listen to the music :headphones:
 -  **Favorite phrase:“When you do something noble and beautiful and nobody noticed, do not be sad. For the sun every morning is a beautiful spectacle and yet most       of the audience still sleeps.”- John Lennon
 

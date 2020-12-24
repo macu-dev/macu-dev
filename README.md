@@ -4,7 +4,7 @@
 
 ## Hi, My name is Maria Claudia but my friends call me Macu
 
-[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/Magenta_Oreo)](https://twitter.com/Magenta_Oreo)
+[![Twitter Badge](https://img.shields.io/badge/-@Magenta_Oreo-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/Magenta_Oreo)](https://twitter.com/Magenta_Oreo)
 
 <!--
 **macu-dev/macu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

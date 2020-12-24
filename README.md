@@ -10,7 +10,7 @@
 ### <i>About</i>
 
 -  **Learning :** Full-Stack Development :zap:
--  **Languages :** Html, C, JavaScript💻 and Css
+-  **Skills :**<img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 -  **Hobbies :** Read📕, Sing:microphone: and Listen to the music :headphones:
 -  **Favorite phrase :**“When you do something noble and beautiful and nobody noticed, do not be sad. For the sun every morning is a beautiful spectacle and yet most       of the audience still sleeps.”- John Lennon
 

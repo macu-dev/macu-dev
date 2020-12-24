@@ -4,7 +4,7 @@
 
 ## Hi, My name is Maria Claudia but my friends call me Macu
 
-[![Twitter Badge](https://img.shields.io/badge/-@Magenta_Oreo-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/Magenta_Oreo)](https://twitter.com/Magenta_Oreo)   [![Linkedin Badge](https://img.shields.io/badge/-Maria_Claudia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maría-claudia-pérez-escalante-501a62144)](https://www.linkedin.com/in/maría-claudia-pérez-escalante-501a62144) 
+[![Twitter Badge](https://img.shields.io/badge/-@Magenta_Oreo-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/Magenta_Oreo)](https://twitter.com/Magenta_Oreo)   [![Linkedin Badge](https://img.shields.io/badge/-Maria_Claudia_Pérez_Escalante-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maría-claudia-pérez-escalante-501a62144)](https://www.linkedin.com/in/maría-claudia-pérez-escalante-501a62144) 
 
 <!--
 **macu-dev/macu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

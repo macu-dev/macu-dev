@@ -12,7 +12,7 @@
 -  **Learning :** Full-Stack Development :zap:
 -  **Languages :** Html, C, JavaScript💻 and Css
 -  **Hobbies :** Read📕, Sing:microphone: and Listen to the music :headphones:
--  **Favorite phrase:“When you do something noble and beautiful and nobody noticed, do not be sad. For the sun every morning is a beautiful spectacle and yet most       of the audience still sleeps.”- John Lennon
+-  **Favorite phrase :**“When you do something noble and beautiful and nobody noticed, do not be sad. For the sun every morning is a beautiful spectacle and yet most       of the audience still sleeps.”- John Lennon
 
 <p align="center">
   <img alt="Macu-dev Github Stats" src="https://github-readme-stats.vercel.app/api?username=macu-dev&show_icons=true&theme=cobalt">

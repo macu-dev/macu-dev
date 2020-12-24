@@ -1,10 +1,10 @@
-<p align="center">
+<p style="text-align: center;">
   <img width="300" height="300" src="https://media1.tenor.com/images/a5dda5f48b69bf95471ffd02f0d7edba/tenor.gif">
 </p>
 
 ## Hi, My name is Maria Claudia but my friends call me Macu
 
-[![Twitter Badge](https://img.shields.io/badge/-@Magenta_Oreo-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/Magenta_Oreo)](https://twitter.com/Magenta_Oreo)
+[![Twitter Badge](https://img.shields.io/badge/-@Magenta_Oreo-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/https://twitter.com/Magenta_Oreo)](https://twitter.com/Magenta_Oreo)  [![Linkedin Badge](https://img.shields.io/badge/-Maria Claudia Pérez Escalante?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mar%C3%ADa-claudia-p%C3%A9rez-escalante-501a62144/)](https://www.linkedin.com/in/mar%C3%ADa-claudia-p%C3%A9rez-escalante-501a62144/) 
 
 <!--
 **macu-dev/macu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

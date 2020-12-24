@@ -17,9 +17,8 @@
 -  **Favorite phrase :**“When you do something noble and beautiful and nobody noticed, do not be sad. For the sun every morning is a beautiful spectacle and yet most       of the audience still sleeps.”- John Lennon
 
 <p align="center">
-  <img alt="Macu-dev Github Stats" src="https://github-readme-stats.vercel.app/api?username=macu-dev&show_icons=true&theme=cobalt">
-  <br>
-  <img alt="Most Used Languages"src="https://github-readme-stats.vercel.app/api/top-langs/?username=macu-dev&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+   <img alt="Most Used Languages"src="https://github-readme-stats.vercel.app/api/top-langs/?username=macu-dev&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <img alt="Macu-dev Github Stats" src="https://github-readme-stats.vercel.app/api?username=macu-dev&show_icons=true&theme=dark">
 </p>
 
 <p align="center">

@@ -9,7 +9,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
 
--  **Learning :** Full-Stack Development :zap:, PHP y React
+-  **Learning :** Full-Stack Development :zap:, PHP and React
 -  **Skills :**
 <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-Scss-ff69b4?style=flat&logo=scss&logoColor=white"> <img src="https://img.shields.io/badge/-Gulp-181717?style=flat&logo=gulp&logoColor=white"> <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white"> <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> 
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian&logoColor=white"> <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white">

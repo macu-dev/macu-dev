@@ -33,9 +33,6 @@
 
  # About me
 -  **Learning :** React Native :zap:
--  **Skills :**
- <img src="https://img.shields.io/badge/-BITBUCKET-0052CC?style=flat&logo=bitbucket&logoColor=white"> <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> 
-<img src="https://img.shields.io/badge/-LINUX-FCC624?style=flat&logo=linux&logoColor=white"> <img src="https://img.shields.io/badge/-DEBIAN-A81D33?style=flat&logo=debian&logoColor=white"> <img src="https://img.shields.io/badge/-WINDOWS-0078D6?style=flat&logo=windows&logoColor=white">  <img src="https://img.shields.io/badge/-MACOS-000000?style=flat&logo=macOs&logoColor=white">
 -  **Hobbies :** Read📕, Sing :microphone: and Listen to the music :headphones:
 -  **Favorite phrase :**“When you do something noble and beautiful and nobody noticed, do not be sad. For the sun every morning is a beautiful spectacle and yet most       of the audience still sleeps.”- John Lennon
 
@@ -65,7 +62,10 @@
 ![Laravel](https://img.shields.io/badge/-LARAVEL-f9322c?style=for-the-badge&logo=laravel&logoColor=white)
 ![Github](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-BITBUCKET-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npmt&logoColor=white)
+![Linux](https://img.shields.io/badge/-LINUX-FCC624?style=for-the-badge&logo=linuxt&logoColor=white)
+![Windows](https://img.shields.io/badge/-WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MacOs](https://img.shields.io/badge/-MACOS-000000?style=for-the-badge&logo=macOs&logoColor=white)
 
 <br/>
 

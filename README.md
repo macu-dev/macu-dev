@@ -58,6 +58,8 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-MATERIAL%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Jest](https://img.shields.io/badge/-JEST-CB3837?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-CYPRESS-181717?style=for-the-badge&logo=cypress&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-4F5B93?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-LARAVEL-f9322c?style=for-the-badge&logo=laravel&logoColor=white)
 ![Github](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)

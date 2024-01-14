@@ -39,8 +39,6 @@
 -  **Favorite phrase :**“When you do something noble and beautiful and nobody noticed, do not be sad. For the sun every morning is a beautiful spectacle and yet most       of the audience still sleeps.”- John Lennon
 
 <br/>
-<br/>
-<br/>
 
 ## Use To Code
 
@@ -71,7 +69,6 @@
 
 <br/>
 
-
 <a> 
     <a href="https://github.com/macu-dev"><img alt="Macu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=macu-dev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/macu-dev"><img alt="Macu's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=macu-dev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
@@ -82,5 +79,5 @@
 <br/>
 
 <p align="center">
-  <img width="300" height="300" src="https://i.pinimg.com/originals/21/f0/92/21f0929a92ebe840eb932af199fb3260.gif">
+  <img width="200" height="200" src="https://i.pinimg.com/originals/21/f0/92/21f0929a92ebe840eb932af199fb3260.gif">
 </p>

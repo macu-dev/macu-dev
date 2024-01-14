@@ -19,6 +19,12 @@
 </p>
 
 <p align="center">
+  <img width="250" height="250" src="https://img1.picmix.com/output/stamp/normal/5/5/1/2/2452155_4c539.gif">
+</p>
+
+<br />
+
+<p align="center">
  <a href="https://www.linkedin.com/in/maría-claudia-pérez-escalante-501a62144" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="macu"/>
  </a>

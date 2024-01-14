@@ -1,25 +1,21 @@
 ![](https://komarev.com/ghpvc/?username=macu-dev&color=blueviolet)
 
-<p align="right">
-  <img width="300" height="300" src="https://media1.tenor.com/images/a5dda5f48b69bf95471ffd02f0d7edba/tenor.gif">
-</p>
 <h1 align="center">
         <samp> Hello World! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'></samp>   
-</h3>
+</h1>
 <h2 align="center">
         <samp> I'm  Maria Claudia 
         but my friends call me <b>Macu</b></samp>   
-</h3>
+</h2>
 <p align="center"> 
   <samp>
     「 I am a frontend developer from <b>Argentina</b> 」
-    <br>
     <br>
   </samp>
 </p>
 
 <p align="center">
-  <img width="250" height="250" src="https://img1.picmix.com/output/stamp/normal/5/5/1/2/2452155_4c539.gif">
+  <img width="150" height="150" src="https://img1.picmix.com/output/stamp/normal/5/5/1/2/2452155_4c539.gif">
 </p>
 
 <br />

@@ -62,20 +62,23 @@
 ![Laravel](https://img.shields.io/badge/-LARAVEL-f9322c?style=for-the-badge&logo=laravel&logoColor=white)
 ![Github](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-BITBUCKET-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npmt&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Linux](https://img.shields.io/badge/-LINUX-FCC624?style=for-the-badge&logo=linuxt&logoColor=white)
 ![Windows](https://img.shields.io/badge/-WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOs](https://img.shields.io/badge/-MACOS-000000?style=for-the-badge&logo=macOs&logoColor=white)
 
 <br/>
 
-<p align="center">
-   <img alt="Most Used Languages"src="https://github-readme-stats.vercel.app/api/top-langs/?username=macu-dev&langs_count=8&layout=compact&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-  <br>
-  <img alt="Macu-dev Github Stats" src="https://github-readme-stats.vercel.app/api?username=macu-dev&show_icons=true&theme=dark">
-</p>
+
+<a> 
+    <a href="https://github.com/macu-dev"><img alt="Macu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=macu-dev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/macu-dev"><img alt="Macu's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=macu-dev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+<br/>
+<br/>
+<br/>
 
 <p align="center">
   <img width="300" height="300" src="https://i.pinimg.com/originals/21/f0/92/21f0929a92ebe840eb932af199fb3260.gif">
 </p>
-

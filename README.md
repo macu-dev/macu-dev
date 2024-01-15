@@ -65,7 +65,7 @@
 ![Github](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-BITBUCKET-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Linux](https://img.shields.io/badge/-LINUX-FCC624?style=for-the-badge&logo=linuxt&logoColor=white)
+![Linux](https://img.shields.io/badge/-LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/-WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOs](https://img.shields.io/badge/-MACOS-000000?style=for-the-badge&logo=macOs&logoColor=white)
 
